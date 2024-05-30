@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function testfile() {
   return (
-    <SafeAreaView style={{border: '1px solid blue'}}>
+    <SafeAreaView style={{}}>
       <Text>testfile</Text>
     </SafeAreaView>
   )
